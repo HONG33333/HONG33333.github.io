@@ -28,7 +28,6 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
     "prettier": "^2.7.1"
   },
   "homepage": "https://github.com/HONG33333/HONG33333.github.io#readme",
@@ -43,7 +42,6 @@
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop",
-    "deploy": "gatsby build && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
