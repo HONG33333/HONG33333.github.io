@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "hong333333",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "HONG3 Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "HONG333333 <j2d1005@naver.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/HONG33333/HONG33333.github.io/issues"
   },
   "dependencies": {
     "gatsby": "^4.23.1",
@@ -31,14 +31,14 @@
     "gh-pages": "^4.0.0",
     "prettier": "^2.7.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/HONG33333/HONG33333.github.io#readme",
   "keywords": [
     "gatsby"
   ],
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/HONG33333/HONG33333.github.io.git"
   },
   "scripts": {
     "build": "gatsby build",
